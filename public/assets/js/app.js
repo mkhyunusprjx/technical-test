@@ -2,7 +2,7 @@
 $(document).ready(function(){ 
 	var api_key = '4j94k2m5m-d0x4f03nd8-m48cjd-2mce-234';
 	var api_secret = 'a8b3kn9s8dmv85mc85mca10cm00';
-	var api_url = 'http://localhost:8082/restapi/api';
+	var api_url = 'http://localhost/restapi/api';
 	var customer = {};
 	var formData = {};
 	function getCustomers(){
