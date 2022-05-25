@@ -11,7 +11,7 @@
         "firebase/php-jwt": "^5.0",
         "vlucas/phpdotenv": "^3.5",
         "bshaffer/oauth2-server-php": "^1.11",
-        "guzzlehttp/guzzle": "^5.3",
+        "guzzlehttp/guzzle": "^6.5",
         "php-curl-class/php-curl-class": "^8.6",
         "nesbot/carbon": "^1.39"
     },
